@@ -12,5 +12,5 @@ An Exalted 3rd Edition Solars Game
 | Brooks   | Amon         | Night    |
 | Adams    | Faysal       | Night    |
 | James    | Huraibo      | Eclipse  |
-| Willow   | Thorn        | Midnight |
+| Willow   | Thorn        | Dusk     |
 
