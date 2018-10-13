@@ -18,8 +18,27 @@ The players have arrived at the dias after the long climb. A small pagoda temple
   + [x] He has a small army of puppet corpses with active lepracy
     + [x] These corpses are manouvered to intercept and "hug" the heroes
   + [ ] He never directly faces the players if the can help it
+
+# 2018-09-21
+
 + [ ] Further in, there is a long drop that must be descended
 + [ ] Before the room, there is a long series of maze-like naturally-occuring mini-caves obscuring the way forward
 + [ ] The room itself is so cold that the check increases to once every five minutes
 + [ ] Upon returning, the Ocean Father instructs them to throw the stone over the edge and listen for it to splash, or applauds them for being wise and honest. If they return with an ordinary stone, he chides them for dishonesty and punishes them with an assult from fog sharks
 +
+
+# 2018-09-28
++ [ ] Undergroup in a shadowland
++ [ ] Overgroup fighting an undead sea dragon
+
+# 2018-10-12
++ [ ] Group montages through pagoda
++ [ ] After group gets back to base, given assignment
++ [ ] Overgroup heads out to escort guest of honor
++ [ ] Undergroup must infultrate the local mayor's (wali's) house to find a key
++ [ ] Undergroup has combat, escapees engage overgroup
++ [ ] Undergroup finds doorway to catacombs
++ [ ] If escort survives, overgroup can join in catacombs
++ [ ] If escort dies, overgroup asked to take bones to spire in middle of city
++ [ ] Groups meet somewhere, with villian
++ [ ] 
